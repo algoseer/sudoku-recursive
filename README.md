@@ -11,6 +11,10 @@ Run as follows:
 ```
 python3 main.py 001.grid
 ```
+## Grid file format
+
+ - Each line is a row
+ - Zero indicates a missing number
 
 Solution inspired by the following Computerphile video:
 
