@@ -1,6 +1,7 @@
 ## Description
 
 Implementation of a recursive approach to solving sudoku by backtracking through all possible solutions.
+
 The first solution is returned. 
 
 3 sample grids are provided.
